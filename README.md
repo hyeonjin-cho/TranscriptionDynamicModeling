@@ -13,8 +13,9 @@ Hyeon Jin Cho1,2 Christopher H. Borher2 Pawel Trzaskoma5 Rob Patro3 Carson C. Ch
 4. Laboratory of Biological Modeling, National Institute of Diabetes and Digestive and Kidney Diseases, NIH, Bethesda, MD, USA
 5. Laboratory of Molecular Immunogenetics, Genomics and Immunity Section, National Institute of Arthritis and Musculoskeletal and Skin Diseases, NIH, Bethesda, MD, USA
 6. Lead contact
-* Correspondence: carsonc@niddk.nih.gov 
-* Correspondence: dan.larson@nih.gov
+* Correspondence: Hyeon Jin Cho (hyeonjin.cho@nih.gov)
+* Correspondence: Carson C. Chow (carsonc@niddk.nih.gov)
+* Correspondence: Daniel R. Larson (dan.larson@nih.gov)
 
 ## This repository includes:
 1. Code used for preprocessing of raw scRNA-Seq data
