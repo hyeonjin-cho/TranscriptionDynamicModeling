@@ -23,7 +23,7 @@ Hyeon Jin Cho,1,2 Christopher H. Borher,2 Pawel Trzaskoma,5 Rob Patro,3 Carson C
 All the rates were inferred using StochasticGene v.1.1.7
 
 Julia package StochasticGene can be installed directly from Julia using:
-'''
+```
 Pkg.add(name="StochasticGene", version="1.1.7")
-'''
+```
 and is also available at: https://github.com/nih-niddk-mbs/StochasticGene.jl
