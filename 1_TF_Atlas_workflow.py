@@ -33,6 +33,7 @@ adata_subset = adata_subset[:, adata_subset.var_names.isin(decay_rate_genes_list
 
 
 # Step 2: Find the indices where the 'TF' column contains TF of interest
+# These TFORF IDs can be found in: https://doi.org/10.1016/j.cell.2022.11.026
 '''
 GFP: TFORF3549
 FOXA1: TFORF3365
