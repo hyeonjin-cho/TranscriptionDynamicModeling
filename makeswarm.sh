@@ -7,11 +7,11 @@ if [ ! -f path/to/genelist.txt ]; then
     exit 1
 fi
 
-swarm_file="fit_scRNA.swarm"
+swarm_file="fit_smFISH.swarm"
 
 while IFS= read -r gene; do
     # Submit the job for each gene
-   echo "julia -t 2 -p 11 fitscript_scRNA.jl      $gene > swarm_outputs/$gene.o" >> "$swarm_file"
+   echo "julia -t 2 -p 11 fitscript_smFISH.jl      $gene > output_dir/$gene.o" >> "$swarm_file"
 
 done < path/to/genelist.txt
 
