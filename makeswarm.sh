@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-# Check if the genes.txt file exists
+# Check if the genelist.txt file exists
 if [ ! -f path/to/genelist.txt ]; then
     echo "file not found!"
     exit 1
