@@ -19,8 +19,9 @@ Hyeon Jin Cho1,2 Christopher H. Borher2 Pawel Trzaskoma5 Rob Patro3 Carson C. Ch
 
 ## This repository includes:
 1. Code used for preprocessing of raw scRNA-Seq data
-     - fff
-3. Codes used to generate all plots.
+     - 1_TF_Atlas_: extract count matrix of TF of interest
+     - rawCounts2freq.py: make individual PDF files from count matrix
+2. Codes used to generate all plots.
 
 All the rates were inferred using StochasticGene v.1.1.7
 
