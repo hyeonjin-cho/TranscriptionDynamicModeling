@@ -20,7 +20,7 @@ Hyeon Jin Cho1,2 Christopher H. Borher2 Pawel Trzaskoma5 Rob Patro3 Carson C. Ch
 ## This repository includes:
 1. Code used for preprocessing of raw scRNA-Seq data
    * HBEC scRNA-seq data (10X)
-     - 
+     - Seurat_workflow.R: filtering step using Seurat package (R)
    * TF Atlas Data:
      - 1_TF_Atlas_workflow.py: extract count matrix of TF of interest
      - 2_rawCounts2freq.py: make individual PDF files from count matrix
