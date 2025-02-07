@@ -3,7 +3,12 @@
 Repository for "Highly Constrained Kinetic Models for Quantitative Single-Cell Gene Expression Analysis"
 
 ## Authors: 
-Hyeon Jin Cho1,2 Christopher H. Borher2 Pawel Trzaskoma5 Rob Patro3 Carson C. Chow4,* and Daniel R. Larson2,6,* 
+Hyeon Jin Cho1,2 
+Christopher H. Borher2 
+Pawel Trzaskoma5 
+Rob Patro3 
+Carson C. Chow4,* 
+Daniel R. Larson2,6,* 
 
 
 ## Affiliations:
