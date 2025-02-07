@@ -19,7 +19,8 @@ Hyeon Jin Cho1,2 Christopher H. Borher2 Pawel Trzaskoma5 Rob Patro3 Carson C. Ch
 
 ## This repository includes:
 1. Code used for preprocessing of raw scRNA-Seq data
-2. Codes used to generate all plots.
+     - fff
+3. Codes used to generate all plots.
 
 All the rates were inferred using StochasticGene v.1.1.7
 
