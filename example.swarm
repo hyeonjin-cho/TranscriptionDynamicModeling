@@ -1,0 +1,10 @@
+julia -t 2 -p 11 fitscript_smFISH.jl	AACSP1 > output_dir/AACSP1.o
+julia -t 2 -p 11 fitscript_smFISH.jl	AAMP > output_dir/AAMP.o
+julia -t 2 -p 11 fitscript_smFISH.jl	AARS2 > output_dir/AARS2.o
+julia -t 2 -p 11 fitscript_smFISH.jl	AASDH > output_dir/AASDH.o
+julia -t 2 -p 11 fitscript_smFISH.jl	AASDHPPT > output_dir/AASDHPPT.o
+julia -t 2 -p 11 fitscript_smFISH.jl	AATK > output_dir/AATK.o
+julia -t 2 -p 11 fitscript_smFISH.jl	AATK-AS1 > output_dir/AATK-AS1.o
+julia -t 2 -p 11 fitscript_smFISH.jl	ABCA1 > output_dir/ABCA1.o
+julia -t 2 -p 11 fitscript_smFISH.jl	ABCA17P > output_dir/ABCA17P.o
+julia -t 2 -p 11 fitscript_smFISH.jl	ABCB1 > output_dir/ABCB1.o
