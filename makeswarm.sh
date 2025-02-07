@@ -1,7 +1,7 @@
 #!/bin/bash
 
-
 # Check if the genelist.txt file exists
+# genelist.txt contains list of genes to be simulated
 if [ ! -f path/to/genelist.txt ]; then
     echo "file not found!"
     exit 1
