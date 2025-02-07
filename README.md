@@ -24,7 +24,8 @@ Hyeon Jin Cho1,2 Christopher H. Borher2 Pawel Trzaskoma5 Rob Patro3 Carson C. Ch
    * TF Atlas Data:
      - 1_TF_Atlas_workflow.py: extract count matrix of TF of interest
      - 2_rawCounts2freq.py: make individual PDF files from count matrix
-3. Codes used to generate all plots.
+2. Codes used to generate all plots.
+3. Code used to run StochasticGene.jl
 
 All the rates were inferred using StochasticGene v.1.1.7
 
