@@ -26,6 +26,7 @@ Hyeon Jin Cho1,2 Christopher H. Borher2 Pawel Trzaskoma5 Rob Patro3 Carson C. Ch
      - 2_rawCounts2freq.py: make individual PDF files from count matrix
 2. Codes used to generate all plots.
 3. Code used to run StochasticGene.jl
+   * makeswarm.sh: make swarm file
 
 All the rates were inferred using StochasticGene v.1.1.7
 
