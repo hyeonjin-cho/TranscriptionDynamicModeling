@@ -1,3 +1,7 @@
+'''
+Use this code to extract TF of interest
+'''
+
 import scanpy as sc
 import pandas as pd
 import seaborn as sns
@@ -21,7 +25,7 @@ gene_sums = raw_counts_df.sum(axis=1)
 raw_counts_df = raw_counts_df[gene_sums > 0]
 
 gene_sums = raw_counts_df.sum(axis=1)
-threshold = np.percentile(gene_sums, 10)
+threshold = np.percentile(gene_sums, 10) # filter out bottom 10th of the total count
 filtered_matrix = raw_counts_df[gene_sums > threshold]
 filtered_genes = gene_sums[gene_sums > threshold].index
 adata_subset = adata[:, adata.var_names.isin(filtered_genes)]
